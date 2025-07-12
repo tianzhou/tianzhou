@@ -2,4 +2,6 @@
 
 I’m currently working on [Bytebase](https://github.com/bytebase/bytebase), a database DevSecOps tool for the developer, DBA, platform engineering, and security teams, aka the GitLab/GitHub for database.
 
-I'm also curating [star-history.com](https://star-history.com/) and learning [MCP](https://whatismcp.com) in my spare time.
+I'm also curating [star-history.com](https://star-history.com/), the de-facto GitHub star history graph 👇👇👇
+
+[![Star History Chart](https://api.star-history.com/svg?repos=bytebase/bytebase,star-history/star-history,sqlchat/sqlchat,bytebase/dbhub,pgschema/pgschema&type=Date)](https://www.star-history.com/#bytebase/bytebase&star-history/star-history&sqlchat/sqlchat&bytebase/dbhub&pgschema/pgschema&Date)
