@@ -10,7 +10,7 @@ I'm also curating [star-history.com](https://star-history.com/), the de-facto Gi
 - [star-history.com](https://star-history.com) - De-facto GitHub star history graph.
 - [SQL Chat](https://github.com/sqlchat/sqlchat) - Chat-based SQL Client and Editor.
 - [DBHub](https://github.com/bytebase/dbhub) - Zero-dependency, token-efficient database MCP server for Postgres, MySQL, SQL Server, MariaDB, SQLite.
-- [pgschema](https://github.com/pgschema/pgschema) - Terraform-style, declarative schema migration for Postgres.
+- [pgschema](https://github.com/pgschema/pgschema) - Terraform-style, declarative schema migration CLI for Postgres.
 
 Before tapping into the OSS world, I worked on the following products:
 
