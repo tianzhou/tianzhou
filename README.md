@@ -6,7 +6,7 @@ I'm also curating [star-history.com](https://star-history.com/), the de-facto Gi
 
 [![Star History Chart](https://api.star-history.com/svg?repos=bytebase/bytebase,star-history/star-history,sqlchat/sqlchat,bytebase/dbhub,pgschema/pgschema&type=Date)](https://www.star-history.com/#bytebase/bytebase&star-history/star-history&sqlchat/sqlchat&bytebase/dbhub&pgschema/pgschema&Date)
 
-- [Bytebase](https://github.com/bytebase/bytebase) - Database DevSecOps solution.
+- [Bytebase](https://github.com/bytebase/bytebase) - Database DevSecOps platform.
 - [star-history.com](https://star-history.com) - De-facto GitHub star history graph.
 - [SQL Chat](https://github.com/sqlchat/sqlchat) - Chat-based SQL Client and Editor.
 - [DBHub](https://github.com/bytebase/dbhub) - Zero-dependency, token-efficient database MCP server for Postgres, MySQL, SQL Server, MariaDB, SQLite.
