@@ -14,8 +14,9 @@ I'm also curating [star-history.com](https://star-history.com/), the de-facto Gi
   - [pgconsole](https://www.pgconsole.com) - Minimal Postgres editor for speed and collaboration.
   - [pgschema](https://github.com/pgschema/pgschema) - Terraform-style, declarative schema migration CLI for Postgres.
 
-Before tapping into the OSS world, I worked on the following products:
+Before tapping into the OSS world:
 
 - ☁️ [Google Cloud SQL](https://cloud.google.com/sql) - Restarted the Postgres effort at Google and maintained Google's Postgres and MySQL branch.
 - 📂 [FileMaker Pro](https://en.wikipedia.org/wiki/FileMaker) - Contributed FileMaker Pro 10 ~ 13.
 - 🐙 [Steward](https://www.stewarddatabase.com) - Built a personal database manager for Mac.
+- 10+ failed projects.
