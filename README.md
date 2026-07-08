@@ -4,7 +4,7 @@ I’m the co-founder of [Bytebase](https://github.com/bytebase/bytebase), a data
 
 I'm also curating [star-history.com](https://star-history.com/), the de-facto GitHub star history graph. Below are the open-source projects that I help to build 👇👇👇
 
-[![Star History Chart](https://api.star-history.com/svg?repos=bytebase/bytebase,star-history/star-history,sqlchat/sqlchat,bytebase/dbhub,pgplex/pgschema,pgplex/pgconsole&type=date&legend=top-left)](https://www.star-history.com/#bytebase/bytebase&star-history/star-history&sqlchat/sqlchat&bytebase/dbhub&pgplex/pgschema&pgplex/pgconsole&type=date&legend=top-left)
+[![Star History Chart](https://api.star-history.com/svg?repos=bytebase/bytebase,star-history/star-history,sqlchat/sqlchat,bytebase/dbhub,pgplex/pgschema,pgplex/pgconsole&type=date&legend=top-left&sealed_token=EDoqUFabWwOM7xAPsXAHWcmj-Qw11JdDsjQcejbySUl87A0X82dBNHjH2lJHSDicNIC3yD2r21TxH91cCMRzrkNof9un9_KQVeqMGPRYkiXQR7bSWspSWA)](https://www.star-history.com/#bytebase/bytebase&star-history/star-history&sqlchat/sqlchat&bytebase/dbhub&pgplex/pgschema&pgplex/pgconsole&type=date&legend=top-left)
 
 - [Bytebase](https://github.com/bytebase/bytebase) - Database DevSecOps platform.
 - [star-history.com](https://star-history.com) - De-facto GitHub star history graph.
