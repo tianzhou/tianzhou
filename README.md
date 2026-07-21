@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m the co-founder of [Bytebase](https://github.com/bytebase/bytebase), a database DevSecOps solution, the GitLab/GitHub for database.
+I’m the co-founder of [Bytebase](https://github.com/bytebase/bytebase), the open-source database governance platform.
 
 I'm also curating [star-history.com](https://star-history.com/), the de-facto GitHub star history graph. Below are the open-source projects that I help to build 👇👇👇
 
