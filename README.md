@@ -1,13 +1,3 @@
-<p align="center">
- <a href="https://www.star-history.com/tianzhou">
-  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/badge?user=tianzhou&year=2025&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/badge?user=tianzhou&year=2025" />
-   <img alt="Top Committer" src="https://api.star-history.com/badge?user=tianzhou&year=2025" />
-  </picture>
- </a>
-</p>
-
 I’m the co-founder of [Bytebase](https://github.com/bytebase/bytebase), the open-source database governance platform.
 
 I'm also curating [star-history.com](https://star-history.com/), the de-facto GitHub star history graph. Below are the open-source projects that I help to build 👇👇👇
